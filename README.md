@@ -53,6 +53,10 @@ end
 
 ## Tests
 
+Se recomienda este recurso para iniciar a leer acerca de los tests:
+
+[The Odin Project - Rspec](https://www.theodinproject.com/lessons/ruby-introduction-to-rspec)
+
 ## Docker
 
 Si se usa Docker, se puede correr los siguientes comandos para ejecutar los tests:
